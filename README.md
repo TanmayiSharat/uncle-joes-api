@@ -12,3 +12,5 @@ The API connects to a BigQuery database and provides endpoints to retrieve:
 - Aisha Patel
 - Arya Rupreja
 - Tanmayi Sharat
+
+* Note: Ensure Python 3.10+ is used for the FastAPI backend.
